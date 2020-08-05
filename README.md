@@ -12,3 +12,8 @@ Dense - C(252,1)
 
 Optimizer - ADAM    
 learning_rate = 0.001
+
+## Data
+Data is at
+https://drive.google.com/drive/folders/1SH5Y8fpwue2uIN1kOeyj_HweW4AP1xKO?usp=sharing   
+paste MVN_X.npy and MVN_Y.npy in the data folder
