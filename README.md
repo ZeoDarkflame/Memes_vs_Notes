@@ -1,5 +1,6 @@
 # Memes_vs_Notes
-*Detecting whether a given image is a meme or notes*
+All of us have thousands of pictures on our phones,   
+two major contenders for storage space are Memes and Notes
 
 ## Architecture
 Conv Layer - F(11x11) S(4x4) C(3,96)  
