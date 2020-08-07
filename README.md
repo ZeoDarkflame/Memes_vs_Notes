@@ -2,6 +2,10 @@
 All of us have thousands of pictures on our phones,   
 two major contenders for storage space are Memes and Notes
 
+## Creating Dataset
+Keep the Creating Dataset Script in the same folder as Memes and Notes (named as 'Memes' and 'Notes' respectively) and run it.  
+This will produce numpy arrays MVN_X.npy and MVN_Y.npy which are images and labels respectively.
+
 ## Architecture (Conv)
 F - Filter, S - Stride, C - Channels   
 Conv Layer - F(11x11) S(4x4) C(3,96)  
