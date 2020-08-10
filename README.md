@@ -18,6 +18,7 @@ Dense - C(252,1)
 
 Optimizer - ADAM    
 learning_rate = 0.001   
+The Best dataset is saved as **MVN2.pth**  
 
 **Accuracy**
 Training Set (1500/1600) - 97.8%   
