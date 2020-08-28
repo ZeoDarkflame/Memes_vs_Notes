@@ -4,11 +4,7 @@ two major contenders for storage space are Memes and Notes
 
 ## The Mobile App
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="AppDemo.mp4" type="video/mp4">
-  </video>
-</figure>
+[![App_Demo_Video](https://youtu.be/fXWmkrGrnHg)](https://youtu.be/fXWmkrGrnHg)
 
 The mobile app separates/extracts the notes from a folder specified by the user.
 
